@@ -1,6 +1,8 @@
 
 # slackin
 
+Asheville URL: http://rocky-reef-4214.herokuapp.com
+
 A little server that enables public access
 to a Slack server. Like Freenode, but on Slack.
 
